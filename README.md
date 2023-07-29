@@ -9,6 +9,8 @@ Student
 
 I choose Bachelor of Science in Computer Science & Engineering based on my love of computers and all things computing. It's my final year as a computer science student, and I love problem-solving. I always try to break problem solutions fast. I want to improve to build clear logic. I am passionate about learning new things.
 
+<a href="http://www.github.com/sauraavsarkar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sauraavsarkar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 * 🌍  I'm based in Narsingdi, Dhaka, Bangladesh
 * ✉️  You can contact me at [sauraavsarkar@gmail.com](mailto:sauraavsarkar@gmail.com)
 * 🚀  I'm currently working on [.net framework project.](http:// )
@@ -22,7 +24,6 @@ src="https://img.shields.io/github/followers/sauraavsarkar?logo=github&style=for
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sauraavsarkar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sauraavsarkar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/sauraavsarkar" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauraavsarkar&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
