@@ -19,7 +19,6 @@ I choose Bachelor of Science in Computer Science & Engineering based on my love 
 <a href="https://www.github.com/sauraavsarkar" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sauraavsarkar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-<a href="http://www.github.com/sauraavsarkar"><img src="https://github-readme-stats.vercel.app/api?username=sauraavsarkar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sauraavsarkar's GitHub stats" /></a>
 
 <b>My GitHub Stats</b>
 
