@@ -1,17 +1,11 @@
 
 
-![GitHub metrics](https://metrics.lecoq.io/sauraavsarkar)  
-
-
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saurav Sarkar
 =====================================================================================================================================
 
 Student
 -------
 ![](https://media.licdn.com/dms/image/D4E16AQFxdfyPRbMWLw/profile-displaybackgroundimage-shrink_350_1400/0/1663607589202?e=1695859200&v=beta&t=SGoZwH0ZzNkn8LscO0Smpnmnv3Beiv7B9nVMrteehAs)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sauraavsarkar)  
 
 ### Socials
 
