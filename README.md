@@ -61,7 +61,6 @@ src="https://img.shields.io/github/followers/sauraavsarkar?logo=github&style=for
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 </p>
 
-(https://github.com/sauraavsarkar)  
 
 ![GitHub metrics](https://metrics.lecoq.io/sauraavsarkar)  
 
