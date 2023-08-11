@@ -35,9 +35,6 @@ src="https://img.shields.io/github/followers/sauraavsarkar?logo=github&style=for
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sauraavsarkar&show_icons=true&locale=en" alt="sauraavsarkar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sauraavsarkar&" alt="sauraavsarkar" /></p>
-
-
 ### Skills
 
 <p align="left">
