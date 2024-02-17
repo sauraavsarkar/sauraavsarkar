@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Student
 -------
-![](https://media.licdn.com/dms/image/D4E16AQFxdfyPRbMWLw/profile-displaybackgroundimage-shrink_350_1400/0/1663607589202?e=1695859200&v=beta&t=SGoZwH0ZzNkn8LscO0Smpnmnv3Beiv7B9nVMrteehAs)
+![]([https://media.licdn.com/dms/image/D4E16AQFxdfyPRbMWLw/profile-displaybackgroundimage-shrink_350_1400/0/1663607589202?e=1695859200&v=beta&t=SGoZwH0ZzNkn8LscO0Smpnmnv3Beiv7B9nVMrteehAs](https://github.com/sauraavsarkar/sauraavsarkar/blob/main/sauravsarkar.png?raw=true))
 
 ### Socials
 
