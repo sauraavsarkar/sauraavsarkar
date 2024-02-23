@@ -22,12 +22,19 @@ My name is Saurav Sarkar, and I'm delighted to introduce myself to you. I am cur
 <a href="http://www.github.com/sauraavsarkar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sauraavsarkar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </h3>
 
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 * 🌍  I'm based in Narsingdi, Dhaka, Bangladesh
 * ✉️  You can contact me at [sauraavsarkar@gmail.com](mailto:sauraavsarkar@gmail.com)
 * 🚀  I'm currently working on [.net framework project.](http:// )
 * 🧠  I'm learning .net framework.
 * 🤝  I'm open to collaborating on Web Development project.
 * ⚡  I'm secretly Spiderman... but don't tell anyone.
+* dad
+* sdsd
+
+
 
 
 ### Skills
