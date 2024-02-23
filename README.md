@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauraavsarkar&label=Profile%20views&color=0e75b6&style=flat" alt="sauraavsarkar" />
 
-### Socials or Connect with me:
+### Socials or Connect with me :
 
 <p align="left"> <a href="https://discord.com/users/sauraavsarkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/sauraavsarkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/sauraavsarkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sauraavsarkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sauraavsarkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
@@ -23,21 +23,19 @@ My name is Saurav Sarkar, and I'm delighted to introduce myself to you. I am cur
 </h3>
 
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="coding" width="400" src="https://github.com/sauraavsarkar/sauraavsarkar/blob/main/output-onlinegiftools.gif?raw=true">
 
+### About me :
 * 🌍  I'm based in Narsingdi, Dhaka, Bangladesh
 * ✉️  You can contact me at [sauraavsarkar@gmail.com](mailto:sauraavsarkar@gmail.com)
 * 🚀  I'm currently working on [.net framework project.](http:// )
 * 🧠  I'm learning .net framework.
 * 🤝  I'm open to collaborating on Web Development project.
-* ⚡  I'm secretly Spiderman... but don't tell anyone.
-* dad
-* sdsd
+* ⚡  I'm currently looking for new opportunities.
+* 📙  Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.
+* 🤭  Fun fact Chai tastes way better than Coffee | Change my mind!
 
-
-
-
-### Skills
+### Skills :
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
