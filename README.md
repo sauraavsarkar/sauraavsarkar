@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ![logo](https://github.com/sauraavsarkar/sauraavsarkar/blob/main/sauravsarkar.png?raw=true)
 <h4 align="center">
-My name is Saurav Sarkar, and I'm delighted to introduce myself to you. I recently completed my graduation in Computer Science & Engineering. Throughout my journey, demonstrating my commitment to learning and personal growth. Creative thinking is a passion of mine, and I enjoy exploring innovative solutions to problems. Problem solving is another strength, as I enjoy tackling challenges head-on and finding solutions.Outside of academics, I am an active volunteer at an organization called Chalkboard, I have a knack for arts, where I find joy in expressing myself creatively. I am a dedicated student with a passion for learning, a problem solver, a creative thinker. I want to keep improving intellectually and personally.
+My name is Saurav Sarkar, and i'm delighted to introduce myself to you. I recently completed my graduation in Computer Science & Engineering. Throughout my journey, demonstrating my commitment to learning and personal growth. Creative thinking is a passion of mine, and i enjoy exploring innovative solutions to problems. Problem solving is another strength, as i'm enjoy tackling challenges head-on and finding solutions. Outside of academics, i'm an active volunteer at an organization called Chalkboard, i have a knack for arts, where i find joy in expressing myself creatively. I am a dedicated student with a passion for learning, a problem solver, a creative thinker. I want to keep improving intellectually and personally.
 </h4>
 
 ### Socials or Connect with me :
