@@ -26,10 +26,10 @@ My name is Saurav Sarkar, and I'm delighted to introduce myself to you. I recent
 <img align="right" alt="coding" width="400" src="https://github.com/sauraavsarkar/sauraavsarkar/blob/main/output-onlinegiftools.gif?raw=true">
 
 ### About me :
-* 🌍  I'm based in Narsingdi, Dhaka, Bangladesh
+* 🌍  I'm based in Narsingdi, Dhaka, Bangladesh.
 * 📙  Check out my <a href="https://drive.google.com/file/d/1HFXwDtgYg26eRN7yjnsUYZrJfZjwT-Ft/view?usp=sharing">resume</a>.
 * ✉️  You can contact me at [sauraavsarkar@gmail.com](mailto:sauraavsarkar@gmail.com)
-* 🚀  I'm currently working on [.net framework project.](http:// )
+* 🚀  I'm currently working on [.net framework project.](https://github.com/sauraavsarkar/AIUB_Ideas_Gateway.git)
 * 🧠  I'm learning .net framework.
 * 🤝  I'm open to collaborating on Web Development project.
 * ⚡  I'm currently looking for new opportunities.
