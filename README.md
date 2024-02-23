@@ -1,17 +1,26 @@
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saurav Sarkar
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Saurav Sarkar.
 =====================================================================================================================================
 
 ![logo](https://github.com/sauraavsarkar/sauraavsarkar/blob/main/sauravsarkar.png?raw=true)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sauraavsarkar&label=Profile%20views&color=0e75b6&style=flat" alt="sauraavsarkar" />
 
 ### Socials or Connect with me:
 
 <p align="left"> <a href="https://discord.com/users/sauraavsarkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/sauraavsarkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/sauraavsarkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sauraavsarkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sauraavsarkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+<h4 align="center">
 My name is Saurav Sarkar, and I'm delighted to introduce myself to you. I am currently student of Science in Computer Science & Engineering at the American International University-Bangladesh, pursuing my Study with enthusiasm and dedication.Throughout my journey, demonstrating my commitment to learning and personal growth.Creative thinking is a passion of mine, and I enjoy exploring innovative solutions to problems. Problem solving is another strength, as I enjoy tackling challenges head-on and finding solutions.Outside of academics, I am an active volunteer at an organization called Chalkboard, I have a knack for arts, where I find joy in expressing myself creatively. I am a dedicated student with a passion for learning, a problem solver, a creative thinker. I want to keep improving intellectually and personally.
+</h4>
 
+
+
+
+<h3 align="center">
 <a href="http://www.github.com/sauraavsarkar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sauraavsarkar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</h3>
 
 * 🌍  I'm based in Narsingdi, Dhaka, Bangladesh
 * ✉️  You can contact me at [sauraavsarkar@gmail.com](mailto:sauraavsarkar@gmail.com)
@@ -20,11 +29,6 @@ My name is Saurav Sarkar, and I'm delighted to introduce myself to you. I am cur
 * 🤝  I'm open to collaborating on Web Development project.
 * ⚡  I'm secretly Spiderman... but don't tell anyone.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sauraavsarkar&label=Profile%20views&color=0e75b6&style=flat" alt="sauraavsarkar" />
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sauraavsarkar&show_icons=true&locale=en&layout=compact" alt="sauraavsarkar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sauraavsarkar&show_icons=true&locale=en" alt="sauraavsarkar" /></p>
 
 ### Skills
 
@@ -55,5 +59,10 @@ My name is Saurav Sarkar, and I'm delighted to introduce myself to you. I am cur
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
 </p>
+
+<h3 align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sauraavsarkar&show_icons=true&locale=en&layout=compact" alt="sauraavsarkar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sauraavsarkar&show_icons=true&locale=en" alt="sauraavsarkar" /></p>
+</h3>
 
 
