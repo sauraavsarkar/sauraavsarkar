@@ -1,31 +1,21 @@
-
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Saurav Sarkar.
 =====================================================================================================================================
 
 ![logo](https://github.com/sauraavsarkar/sauraavsarkar/blob/main/sauravsarkar.png?raw=true)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sauraavsarkar&label=Profile%20views&color=0e75b6&style=flat" alt="sauraavsarkar" />
-
-### Socials or Connect with me :
-
-<p align="left"> <a href="https://discord.com/users/sauraavsarkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/sauraavsarkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/sauraavsarkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sauraavsarkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sauraavsarkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
 <h4 align="center">
 My name is Saurav Sarkar, and I'm delighted to introduce myself to you. I recently completed my graduation in Computer Science & Engineering. Throughout my journey, demonstrating my commitment to learning and personal growth. Creative thinking is a passion of mine, and I enjoy exploring innovative solutions to problems. Problem solving is another strength, as I enjoy tackling challenges head-on and finding solutions.Outside of academics, I am an active volunteer at an organization called Chalkboard, I have a knack for arts, where I find joy in expressing myself creatively. I am a dedicated student with a passion for learning, a problem solver, a creative thinker. I want to keep improving intellectually and personally.
 </h4>
 
+### Socials or Connect with me :
 
-
-
-<h3 align="center">
-<a href="http://www.github.com/sauraavsarkar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sauraavsarkar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</h3>
-
+<p align="left"> <a href="https://discord.com/users/sauraavsarkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/sauraavsarkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/sauraavsarkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sauraavsarkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sauraavsarkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <img align="right" src="https://komarev.com/ghpvc/?username=sauraavsarkar&label=Profile%20views&color=0e75b6&style=flat" alt="sauraavsarkar" />
+</p>
 
 <img align="right" alt="coding" width="400" src="https://github.com/sauraavsarkar/sauraavsarkar/blob/main/output-onlinegiftools.gif?raw=true">
 
 ### About me :
+* 💕  I'm a Learner | Programmer.
 * 🌍  I'm based in Narsingdi, Dhaka, Bangladesh.
 * 📙    Check out my <a href="https://drive.google.com/file/d/1HFXwDtgYg26eRN7yjnsUYZrJfZjwT-Ft/view?usp=sharing">resume</a>.
 * ✉️  You can contact me at [sauraavsarkar@gmail.com](mailto:sauraavsarkar@gmail.com)
@@ -33,7 +23,12 @@ My name is Saurav Sarkar, and I'm delighted to introduce myself to you. I recent
 * 🧠  I'm learning .net framework.
 * 🤝  I'm open to collaborating on Web Development project.
 * ⚡  I'm currently looking for new opportunities.
-* 🤭  Fun fact Chai tastes way better than Coffee | Change my mind!
+* 😉  Fun fact Chai tastes way better than Coffee | Change my mind!
+
+
+<h3 align="center">
+<a href="http://www.github.com/sauraavsarkar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sauraavsarkar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</h3>
 
 ### Skills :
 
