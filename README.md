@@ -27,7 +27,7 @@ My name is Saurav Sarkar, and I'm delighted to introduce myself to you. I recent
 
 ### About me :
 * 🌍  I'm based in Narsingdi, Dhaka, Bangladesh
-* 📙  Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.
+* 📙  Check out my <a href="https://drive.google.com/file/d/1HFXwDtgYg26eRN7yjnsUYZrJfZjwT-Ft/view?usp=sharing">resume</a>.
 * ✉️  You can contact me at [sauraavsarkar@gmail.com](mailto:sauraavsarkar@gmail.com)
 * 🚀  I'm currently working on [.net framework project.](http:// )
 * 🧠  I'm learning .net framework.
