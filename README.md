@@ -17,7 +17,7 @@ My name is Saurav Sarkar, and i'm delighted to introduce myself to you. I recent
 ### About me :
 * 💕  I'm a Learner | Programmer.
 * 🌍  I'm based in Narsingdi, Dhaka, Bangladesh.
-* 📙    Check out my <a href="https://drive.google.com/file/d/1HFXwDtgYg26eRN7yjnsUYZrJfZjwT-Ft/view?usp=sharing">resume</a>.
+* 📙    Check out my <a href="https://drive.google.com/file/d/1kHLUXHqwFGwF8aQjnUMgchNPnJ2KzBRn/view?usp=drivesdk">resume</a>.
 * ✉️  You can contact me at [sauraavsarkar@gmail.com](mailto:sauraavsarkar@gmail.com)
 * 🚀  I'm currently working on [.net framework project.](https://github.com/sauraavsarkar/AIUB_Ideas_Gateway.git)
 * 🧠  I'm learning .net framework.
